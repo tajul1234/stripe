@@ -280,6 +280,9 @@
         <a href="{{ route('su') }}">Subscription</a>
 
 
+        <a href="{{ route('pay') }}">Aamarpay</a>
+
+
     </div>
     </body>
 </html>
